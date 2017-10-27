@@ -18,13 +18,13 @@ It is found by comparing two DNA strands and counting how many of the nucleotide
 
 The Hamming distance between these two DNA strands is 7.
 
-***
+* * * *
 
 # Implementation notes
 
 The Hamming distance is only defined for sequences of equal length. If the 2 supplied sequences are of different length raise an error. 
 
-Implement a Class that has a method that takes 2 string arguments(representing 2 sequences). The method should return a number indicating the Hamming distance. You may name the class any methods anything you choose, but follow Ruby and OOP(object oriented programming) conventions.
+Implement a Class that has a method that takes 2 string arguments(representing 2 sequences). The method should return a number indicating the Hamming distance. You may name the class and methods anything you choose, but follow Ruby and OOP(object oriented programming) conventions.
 
 ex: 
 
@@ -35,7 +35,8 @@ MyClass.my_method('AGTA', 'ATA') #=> Error
 
 When you complete your work, zip up all files into a single package and reply back with your answer. If you need any clearification please reachout.
 
-***
+
+* * * *
 
 # Grading notes
 
