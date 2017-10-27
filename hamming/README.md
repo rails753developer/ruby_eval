@@ -27,8 +27,11 @@ The Hamming distance is only defined for sequences of equal length. If the 2 sup
 Implement a Class that has a method that takes 2 string arguments(representing 2 sequences). The method should return a number indicating the Hamming distance. You may name the class any methods anything you choose, but follow Ruby and OOP(object oriented programming) conventions.
 
 ex: 
-```MyClass.my_method('AGTA', 'ATTA') #=> 1```
-```MyClass.my_method('AGTA', 'ATA') #=> Error```
+
+```
+MyClass.my_method('AGTA', 'ATTA') #=> 1
+MyClass.my_method('AGTA', 'ATA') #=> Error
+```
 
 When you complete your work, zip up all files into a single package and reply back with your answer. If you need any clearification please reachout.
 
