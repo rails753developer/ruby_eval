@@ -22,6 +22,8 @@ The Hamming distance between these two DNA strands is 7.
 
 # Implementation notes
 
+Fork this repo, once you complete your work submit a PR(pull request) with your solution
+
 The Hamming distance is only defined for sequences of equal length. If the 2 supplied sequences are of different length raise an error. 
 
 Implement a Class that has a method that takes 2 string arguments(representing 2 sequences). The method should return a number indicating the Hamming distance. You may name the class and methods anything you choose, but follow Ruby and OOP(object oriented programming) conventions.
@@ -33,8 +35,7 @@ MyClass.my_method('AGTA', 'ATTA') #=> 1
 MyClass.my_method('AGTA', 'ATA') #=> Error
 ```
 
-When you complete your work, zip up all files into a single package and reply back with your answer. If you need any clearification please reachout.
-
+If you need any clearification please reachout.
 
 * * * *
 
